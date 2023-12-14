@@ -30,5 +30,5 @@
 | # |                                                              Repositories                                                              |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
 | 1 | [Cyberpet: An Arduino and ESP Based Companion Robot](https://github.com/josephswlee/Clustering-the-Countries-with-Unsupervised-Learning) |
-| 2 |                    [US Real Estate Rental Prices Analysis](https://github.com/josephswlee/Stock-Portfolio)                               |
+| 2 |            [US Real Estate Rental Prices Analysis](https://github.com/XuanyouLiu/US-Real-Estate-Analysis)                               |
 
