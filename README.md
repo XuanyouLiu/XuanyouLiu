@@ -1,5 +1,7 @@
 # Hi there, I'm Xuanyou! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+![Undergrad](https://img.shields.io/badge/Ungergrad-XJTU-blue) ![Graduate](https://img.shields.io/badge/Graduate-UPenn-blue)
+
 - 🔭 I’m currently a master student of Robotics M.S.E, University of Pennsylvania.
 - 🌱 My interest focuses on embedded system, human-computer interaction & big data analysis.
 - 👯 I’m looking for RA/PhD position in the field of HCI.
@@ -19,8 +21,8 @@
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![Apache Spark](https://img.shields.io/badge/-ApacheSpark-000?&logo=apachespark)
-![Sci-Kit Learn](https://img.shields.io/badge/-SciKit-000?&logo=scikitlearn)
+![Apache Spark](https://img.shields.io/badge/-Apache_Spark-000?&logo=apachespark)
+![Sci-Kit Learn](https://img.shields.io/badge/-Sci_Kit-000?&logo=scikitlearn)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-000?&logo=dassaultsystemes)
