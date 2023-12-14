@@ -4,7 +4,7 @@
 - 🌱 My interest focuses on embedded system, human-computer interaction & big data analysis.
 - 👯 I’m looking for RA/PhD position in the field of HCI.
 
-📫 [Email](xuanyou@seas.upenn.edu) | 📄 [Resume](https://drive.google.com/file/d/1Jc6BW3-jMrOjLfo8ULs09s7cjMYXsSP2/view?usp=share_link) | 🖥️ [Webpage](https://www.grasp.upenn.edu/people/xuanyou-liu/) 
+📫 [Email](mailto:xuanyou@seas.upenn.edu) | 📄 [Resume](https://drive.google.com/file/d/1Jc6BW3-jMrOjLfo8ULs09s7cjMYXsSP2/view?usp=share_link) | 🖥️ [Webpage](https://www.grasp.upenn.edu/people/xuanyou-liu/) | [![LinkedIn][https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png]]
 
 ### Languages
 
