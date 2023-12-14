@@ -1,10 +1,10 @@
 # Hi! I am Xuanyou Liu
 
-- 🔭 I’m currently a master student of Robotics M.S.E, University of Pennsylvania
-- 🌱 My interset is focusing on embeded system, human-computer interaction & big data analysis
-- 👯 I’m looking for RA/PhD position in the field of HCI
+- 🔭 I’m currently a master student of Robotics M.S.E, University of Pennsylvania.
+- 🌱 My interest focuses on embedded system, human-computer interaction & big data analysis.
+- 👯 I’m looking for RA/PhD position in the field of HCI.
 
-📫 [emial](xuanyou@seas.upenn.edu) | 📄 [Resume](https://drive.google.com/file/d/1Jc6BW3-jMrOjLfo8ULs09s7cjMYXsSP2/view?usp=share_link) | 🖥️ [Webpage](https://www.grasp.upenn.edu/people/xuanyou-liu/) 
+📫 [Emial](xuanyou@seas.upenn.edu) | 📄 [Resume](https://drive.google.com/file/d/1Jc6BW3-jMrOjLfo8ULs09s7cjMYXsSP2/view?usp=share_link) | 🖥️ [Webpage](https://www.grasp.upenn.edu/people/xuanyou-liu/) 
 
 ### Languages
 
@@ -24,4 +24,3 @@
 ![Figma](https://img.shields.io/badge/-figma-000?&logo=figma)
 ![Arduino](https://img.shields.io/badge/-arduino-000?&logo=arduino)
 ![SolidWorks](https://img.shields.io/badge/-dassaultsystemes-000?&logo=dassaultsystemes)
-
