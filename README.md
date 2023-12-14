@@ -20,7 +20,7 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Apache Spark](https://img.shields.io/badge/-ApacheSpark-000?&logo=apachespark)
-![Sci-Kit Learn](https://img.shields.io/badge/-Sci-Kit-Learn-000?&logo=scikitlearn)
+![Sci-Kit Learn](https://img.shields.io/badge/-SciKit-000?&logo=scikitlearn)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-000?&logo=dassaultsystemes)
