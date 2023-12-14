@@ -4,7 +4,7 @@
 - 🌱 My interset is focusing on embeded system, human-computer interaction & big data analysis
 - 👯 I’m looking for RA/PhD position in the field HCI
 
-📫 [emial](xuanyou@seas.upenn.edu) | 📄 [Resume](https://drive.google.com/file/d/1Jc6BW3-jMrOjLfo8ULs09s7cjMYXsSP2/view?usp=share_link) | 🖥️ [Webpage] (https://www.grasp.upenn.edu/people/xuanyou-liu/)
+📫 [emial](xuanyou@seas.upenn.edu) | 📄 [Resume](https://drive.google.com/file/d/1Jc6BW3-jMrOjLfo8ULs09s7cjMYXsSP2/view?usp=share_link) | 🖥️ [Webpage](https://www.grasp.upenn.edu/people/xuanyou-liu/)
 
 ### Languages
 
@@ -18,3 +18,4 @@
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Apache Spark](https://img.shields.io/badge/-apachespark-000?&logo=apachespark)
