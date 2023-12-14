@@ -1,6 +1,7 @@
 # Hi there, I'm Xuanyou! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Undergrad](https://img.shields.io/badge/Undergrad-XJTU-blue)  ![Graduate](https://img.shields.io/badge/Graduate-UPenn-blue)
+![Undergrad](https://img.shields.io/badge/Undergrad-XJTU-blue)
+![Graduate](https://img.shields.io/badge/Graduate-UPenn-blue)
 
 - 🔭 I’m currently a master student of Robotics M.S.E, University of Pennsylvania.
 - 🌱 My interest focuses on embedded system, human-computer interaction & big data analysis.
@@ -8,7 +9,7 @@
 
 📫 [Email](mailto:xuanyou@seas.upenn.edu) | 📄 [Resume](https://drive.google.com/file/d/1Jc6BW3-jMrOjLfo8ULs09s7cjMYXsSP2/view?usp=share_link) | 🖥️ [Webpage](https://www.grasp.upenn.edu/people/xuanyou-liu/) | 📘 [Linkedin](https://www.linkedin.com/in/xuanyouliu/)
 
-### Languages
+## Languages & Techologies
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -16,9 +17,6 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![R](https://img.shields.io/badge/-R-000?&logo=r)
-
-### Technologies
-
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-000?&logo=apachespark)
@@ -27,7 +25,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-000?&logo=dassaultsystemes)
 
-### Current Repositories
+## Current Repositories
 
 | # |                                                              Repositories                                                              |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
