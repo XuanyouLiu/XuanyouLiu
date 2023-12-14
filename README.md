@@ -1,6 +1,6 @@
 # Hi there, I'm Xuanyou! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Undergrad](https://img.shields.io/badge/Undergrad-XJTU-blue)\ ![Graduate](https://img.shields.io/badge/Graduate-UPenn-blue)
+![Undergrad](https://img.shields.io/badge/Undergrad-XJTU-blue)  ![Graduate](https://img.shields.io/badge/Graduate-UPenn-blue)
 
 - 🔭 I’m currently a master student of Robotics M.S.E, University of Pennsylvania.
 - 🌱 My interest focuses on embedded system, human-computer interaction & big data analysis.
