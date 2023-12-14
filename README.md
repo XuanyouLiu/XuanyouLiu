@@ -17,6 +17,9 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![R](https://img.shields.io/badge/-R-000?&logo=r)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
+![Git](https://img.shields.io/badge/-git-000?&logo=git)
+![OpenCV](https://img.shields.io/badge/-OpenCv-000?&logo=opencv)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-000?&logo=apachespark)
@@ -24,7 +27,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-000?&logo=dassaultsystemes)
-![Git](https://img.shields.io/badge/-git-000?&logo=git)
 
 ## Current Repositories
 
