@@ -1,4 +1,4 @@
-# Hi! I am Xuanyou Liu
+# Hi there, I'm Xuanyou! `<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">`
 
 - 🔭 I’m currently a master student of Robotics M.S.E, University of Pennsylvania.
 - 🌱 My interest focuses on embedded system, human-computer interaction & big data analysis.
@@ -24,3 +24,11 @@
 ![Figma](https://img.shields.io/badge/-figma-000?&logo=figma)
 ![Arduino](https://img.shields.io/badge/-arduino-000?&logo=arduino)
 ![SolidWorks](https://img.shields.io/badge/-dassaultsystemes-000?&logo=dassaultsystemes)
+
+### Current Repositories
+
+| # |                                                              Repositories                                                              |
+| :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
+| 1 | [Cyberpet: An Arduino and ESP Based Companion Robot](https://github.com/josephswlee/Clustering-the-Countries-with-Unsupervised-Learning) |
+| 2 |                    [US Real Estate Rental Prices Analysis](https://github.com/josephswlee/Stock-Portfolio)                               |
+
