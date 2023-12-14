@@ -13,17 +13,17 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![R](https://img.shields.io/badge/-r-000?&logo=r)
+![R](https://img.shields.io/badge/-R-000?&logo=r)
 
 ### Technologies
 
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![Apache Spark](https://img.shields.io/badge/-apachespark-000?&logo=apachespark)
-![Sci-Kit Learn](https://img.shields.io/badge/-scikitlearn-000?&logo=scikitlearn)
-![Figma](https://img.shields.io/badge/-figma-000?&logo=figma)
-![Arduino](https://img.shields.io/badge/-arduino-000?&logo=arduino)
-![SolidWorks](https://img.shields.io/badge/-dassaultsystemes-000?&logo=dassaultsystemes)
+![Apache Spark](https://img.shields.io/badge/-ApacheSpark-000?&logo=apachespark)
+![Sci-Kit Learn](https://img.shields.io/badge/-Sci-Kit-Learn-000?&logo=scikitlearn)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-000?&logo=dassaultsystemes)
 
 ### Current Repositories
 
