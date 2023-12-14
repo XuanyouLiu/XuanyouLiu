@@ -32,7 +32,7 @@
 | 1 | [Cyberpet: An Arduino and ESP Based Companion Robot](https://github.com/XuanyouLiu/US-Real-Estate-Analysis) |
 | 2 | [US Real Estate Rental Prices Analysis](https://github.com/XuanyouLiu/US-Real-Estate-Analysis) |
 
-![Zed' Github Stats](https://github-readme-stats.vercel.app/api?username=XuanyouLiu&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![Zed' Github Stats](https://github-readme-stats.vercel.app/api?username=XuanyouLiu&hide=contribs,prs&show_icons=true&bg_color=0000&title_color=0000&text_color=0000&icon_color=0000)
 
 
 
