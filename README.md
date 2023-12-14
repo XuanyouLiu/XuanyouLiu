@@ -2,10 +2,9 @@
 
 - 🔭 I’m currently a master student of Robotics M.S.E, University of Pennsylvania
 - 🌱 My interset is focusing on embeded system, human-computer interaction & big data analysis
-- 👯 I’m looking for RA/PhD position of HCI
+- 👯 I’m looking for RA/PhD position in the field HCI
 
-- 💬 Ask me about ...
-- 📫 How to reach me: 
+📫 [emial](xuanyou@seas.upenn.edu) | 📄 [Resume](https://drive.google.com/file/d/1Jc6BW3-jMrOjLfo8ULs09s7cjMYXsSP2/view?usp=share_link) | 🖥️ [Webpage] (https://www.grasp.upenn.edu/people/xuanyou-liu/)
 
 ### Languages
 
