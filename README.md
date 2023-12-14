@@ -4,7 +4,7 @@
 - 🌱 My interest focuses on embedded system, human-computer interaction & big data analysis.
 - 👯 I’m looking for RA/PhD position in the field of HCI.
 
-📫 [Emial](xuanyou@seas.upenn.edu) | 📄 [Resume](https://drive.google.com/file/d/1Jc6BW3-jMrOjLfo8ULs09s7cjMYXsSP2/view?usp=share_link) | 🖥️ [Webpage](https://www.grasp.upenn.edu/people/xuanyou-liu/) 
+📫 [Email](xuanyou@seas.upenn.edu) | 📄 [Resume](https://drive.google.com/file/d/1Jc6BW3-jMrOjLfo8ULs09s7cjMYXsSP2/view?usp=share_link) | 🖥️ [Webpage](https://www.grasp.upenn.edu/people/xuanyou-liu/) 
 
 ### Languages
 
@@ -29,6 +29,6 @@
 
 | # |                                                              Repositories                                                              |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
-| 1 | [Cyberpet: An Arduino and ESP Based Companion Robot](https://github.com/josephswlee/Clustering-the-Countries-with-Unsupervised-Learning) |
-| 2 |            [US Real Estate Rental Prices Analysis](https://github.com/XuanyouLiu/US-Real-Estate-Analysis)                               |
+| 1 | [Cyberpet: An Arduino and ESP Based Companion Robot](https://github.com/XuanyouLiu/US-Real-Estate-Analysis) |
+| 2 | [US Real Estate Rental Prices Analysis](https://github.com/XuanyouLiu/US-Real-Estate-Analysis) |
 
