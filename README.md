@@ -27,7 +27,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-000?&logo=dassaultsystemes)
-![Altium](https://img.shields.io/badge/-Altium-000?&logo=altium)
+![Altium](https://img.shields.io/badge/-Altium-000?&logo=altiumdesigner)
 
 ## Current Repositories
 
