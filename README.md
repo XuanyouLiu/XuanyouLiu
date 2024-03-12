@@ -33,7 +33,7 @@
 
 | # |                                                              Repositories                                                              |
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
-| 1 | [Cyberpet: An Arduino and ESP Based Companion Robot](https://github.com/XuanyouLiu/US-Real-Estate-Analysis) |
+| 1 | [Cyberpet: An Arduino and ESP Based Companion Robot](https://github.com/XuanyouLiu/Cyberpet.git) |
 | 2 | [US Real Estate Rental Prices Analysis](https://github.com/XuanyouLiu/US-Real-Estate-Analysis) |
 
 
