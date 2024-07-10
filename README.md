@@ -35,5 +35,5 @@
 | :-: | :------------------------------------------------------------------------------------------------------------------------------------: |
 | 1 | [Cyberpet: An Arduino and ESP Based Companion Robot](https://github.com/XuanyouLiu/Cyberpet.git) |
 | 2 | [US Real Estate Rental Prices Analysis](https://github.com/XuanyouLiu/US-Real-Estate-Analysis) |
-| 3 | [H Index Prediction](https://github.com/XuanyouLiu/CIS519-H-Index-Prediction.git)) |
+| 3 | [H Index Prediction](https://github.com/XuanyouLiu/CIS519-H-Index-Prediction.git) |
 
