@@ -7,7 +7,7 @@
 - My areas of interest include embedded systems, human-computer interaction (HCI), and big data analysis.
 - I am seeking opportunities for a Research Assistantship or PhD position in the field of Human-Computer Interaction.
 
-📫 [Email](mailto:xuanyou@seas.upenn.edu) | [Webpage](https://www.grasp.upenn.edu/people/xuanyou-liu/) | [Linkedin](https://www.linkedin.com/in/xuanyouliu/)
+📫 [Email](mailto:xuanyou@seas.upenn.edu) | [Lab Webpage](https://www.grasp.upenn.edu/people/xuanyou-liu/) | [Personal Website](xuanyou@seas.upenn.edu) | [Linkedin](https://www.linkedin.com/in/xuanyouliu/)
 
 ## Languages & Techologies
 
@@ -36,4 +36,6 @@
 | 1 | [Cyberpet: An Arduino and ESP Based Companion Robot](https://github.com/XuanyouLiu/Cyberpet.git) |
 | 2 | [US Real Estate Rental Prices Analysis](https://github.com/XuanyouLiu/US-Real-Estate-Analysis) |
 | 3 | [H Index Prediction](https://github.com/XuanyouLiu/CIS519-H-Index-Prediction.git) |
+| 4 | [iHealth: SAMW25 Based Pill Dispenser](https://github.com/ese5160/iHealth-SAMW25-Pill-Dispenser.git)|
+
 
