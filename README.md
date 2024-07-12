@@ -2,6 +2,7 @@
 
 ![Undergrad](https://img.shields.io/badge/Undergrad-XJTU-blue)
 ![Graduate](https://img.shields.io/badge/Graduate-UPenn-blue)
+![Internship](https://img.shields.io/badge/Intership-UChicago-blue)
 
 - I am currently pursuing a Master's degree in Robotics at the University of Pennsylvania.
 - My areas of interest include embedded systems, human-computer interaction (HCI), and machine learning.
