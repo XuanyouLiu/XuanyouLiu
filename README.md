@@ -4,7 +4,7 @@
 ![Graduate](https://img.shields.io/badge/Graduate-UPenn-blue)
 
 - I am currently pursuing a Master's degree in Robotics at the University of Pennsylvania.
-- My areas of interest include embedded systems, human-computer interaction (HCI), and big data analysis.
+- My areas of interest include embedded systems, human-computer interaction (HCI), and machine learning.
 - I am seeking opportunities for a Research Assistantship or PhD position in the field of Human-Computer Interaction.
 
 📫 [Email](mailto:xuanyou@seas.upenn.edu) | [Lab Webpage](https://www.grasp.upenn.edu/people/xuanyou-liu/) | [Personal Website](xuanyou@seas.upenn.edu) | [Linkedin](https://www.linkedin.com/in/xuanyouliu/)
