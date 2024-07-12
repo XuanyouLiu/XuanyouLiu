@@ -4,7 +4,8 @@
 ![Graduate](https://img.shields.io/badge/Graduate-UPenn-blue)
 ![Internship](https://img.shields.io/badge/Intership-UChicago-blue)
 
-- I am currently pursuing a Master's degree in Robotics at the University of Pennsylvania.
+- I am currently pursuing a Master's degree in Robotics at the University of Pennsylvania, affiliated with [GRASP](https://www.grasp.upenn.edu) Lab.
+- I am working as a research intern in the [Human Computer Integration Lab](https://lab.plopes.org) at the University of Chicago.
 - My areas of interest include embedded systems, human-computer interaction (HCI), and machine learning.
 - I am seeking opportunities for a Research Assistantship or PhD position in the field of Human-Computer Interaction.
 
