@@ -1,8 +1,8 @@
 # Hi there, I'm Zed! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Undergrad](https://img.shields.io/badge/Undergrad-XJTU-blue)
-![Graduate](https://img.shields.io/badge/Graduate-UPenn-blue)
-![Internship](https://img.shields.io/badge/Intership-UChicago-blue)
+![Master](https://img.shields.io/badge/Master-UPenn-blue)
+![PhD](https://img.shields.io/badge/PhD-Northwestern-blue)
 
 - I am a Ph.D. student at the Northwestern University, affiliated with [SPICE](https://spice-lab.org) Lab.
 - My areas of interest include embedded systems, human-computer interaction (HCI), and machine learning.
