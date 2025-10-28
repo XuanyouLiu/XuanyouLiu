@@ -7,8 +7,6 @@
 - I am a Ph.D. student at the Northwestern University, affiliated with [SPICE](https://spice-lab.org) Lab.
 - My areas of interest include embedded systems, human-computer interaction (HCI), and machine learning.
 
-[Email](mailto:xuanyouliu2030@u.northwestern.edu) | [Personal Website](https://xuanyouliu.com) | [Linkedin](https://www.linkedin.com/in/xuanyouliu/)
-
 ## Languages & Techologies
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
