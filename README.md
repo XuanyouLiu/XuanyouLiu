@@ -4,10 +4,8 @@
 ![Graduate](https://img.shields.io/badge/Graduate-UPenn-blue)
 ![Internship](https://img.shields.io/badge/Intership-UChicago-blue)
 
-- I am currently pursuing a Master's degree in Robotics at the University of Pennsylvania, affiliated with [GRASP](https://www.grasp.upenn.edu) Lab.
-- I am working as a research intern in the [Human Computer Integration Lab](https://lab.plopes.org) at the University of Chicago.
+- I am a Ph.D. student at the Northwestern University, affiliated with [SPICE](https://spice-lab.org) Lab.
 - My areas of interest include embedded systems, human-computer interaction (HCI), and machine learning.
-- I am seeking opportunities for a Research Assistantship or PhD position in the field of Human-Computer Interaction.
 
 [Email](mailto:xuanyou@seas.upenn.edu) | [Lab Webpage](https://www.grasp.upenn.edu/people/xuanyou-liu/) | [Personal Website](xuanyou@seas.upenn.edu) | [Linkedin](https://www.linkedin.com/in/xuanyouliu/)
 
