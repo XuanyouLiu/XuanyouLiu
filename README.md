@@ -1,4 +1,4 @@
-# Hey, I'm Zed
+# Hey, I'm Xuanyou Liu (Zed)
 
 ```python
 class Zed:
@@ -23,14 +23,14 @@ I build **hardware-software systems** at the intersection of sensing, haptics, a
 
 ## Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-sklearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RPi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)&nbsp;&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)&nbsp;&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)&nbsp;&nbsp;
+![scikit-learn](https://img.shields.io/badge/-sklearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)&nbsp;&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)&nbsp;&nbsp;
+![Raspberry Pi](https://img.shields.io/badge/-RPi-A22846?style=flat&logo=raspberrypi&logoColor=white)&nbsp;&nbsp;
 ![Altium](https://img.shields.io/badge/-Altium-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
 
 ## Featured Projects
