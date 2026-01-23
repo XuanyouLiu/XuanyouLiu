@@ -1,51 +1,74 @@
-# Hi, I'm Zed! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hey, I'm Zed
 
-Ph.D. student at Northwestern University (SPICE Lab) • Embedded Systems • HCI • Machine Learning
+```python
+class Zed:
+    def __init__(self):
+        self.role = "Ph.D. Student @ Northwestern"
+        self.focus = ["Wearable Systems", "Haptics", "Embedded ML"]
+        self.currently_building = "EIT-based hand tracking"
+```
 
-## Education
+[![Website](https://img.shields.io/badge/-xuanyouliu.com-000?style=flat&logo=google-chrome&logoColor=white)](https://xuanyouliu.com)
+[![Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=FcQWVTYAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xuanyouliu/)
 
-![Undergrad](https://img.shields.io/badge/Undergrad-XJTU-blue) ![Master](https://img.shields.io/badge/Master-UPenn-blue) ![PhD](https://img.shields.io/badge/PhD-Northwestern-blue)
+---
 
-## About me
+## What I Build
 
-- I am a Ph.D. student at Northwestern University, affiliated with the [SPICE](https://spice-lab.org) Lab.
-- I work at the intersection of embedded systems, human-computer interaction (HCI), and machine learning.
+I build **hardware-software systems** at the intersection of sensing, haptics, and machine learning. My work spans from low-level firmware to ML pipelines, usually involving custom PCBs and wearable prototypes.
 
-## Research interests
+**Current:** [SPICE Lab](https://spice-lab.org) @ Northwestern — building novel input/output devices  
+**Previously:** [HCI Lab](https://lab.plopes.org/) @ UChicago — electrotactile interfaces with Pedro Lopes
 
-- Embedded and edge computing systems
-- Interactive systems and human-centered AI
-- Sensing, wearables, and low-power platforms
+## Tech Stack
 
-## Languages & Technologies
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
 
-#### Programming
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![R](https://img.shields.io/badge/-R-000?&logo=r)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
+**ML & Vision**  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-sklearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-#### Machine Learning / Data
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikitlearn)
-![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=opencv)
-![Apache Spark](https://img.shields.io/badge/-Apache_Spark-000?&logo=apachespark)
+**Embedded & Hardware**  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RPi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+![Altium](https://img.shields.io/badge/-Altium-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
 
-#### Cloud & Dev
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Git](https://img.shields.io/badge/-git-000?&logo=git)
+## Featured Projects
 
-#### Hardware & Design
-![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=arduino)
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-000?&logo=dassaultsystemes)
-![Altium](https://img.shields.io/badge/-Altium-000?&logo=altiumdesigner)
-![Figma](https://img.shields.io/badge/-Figma-000?&logo=figma)
+### Electrotactile Sensory Substitution
+> Back-of-hand display + wrist camera → tactile vision for blind users
 
-—
+`C++` `Python` `PCB Design` `Real-time Systems`  
+**CHI 2025** · [Paper](https://doi.org/10.1145/3706598.3713419)
 
-If you'd like to collaborate on projects related to embedded systems, HCI, or applied ML, feel free to reach out or connect via the SPICE Lab website.
+### TacTex — High-Density Textile Haptics
+> 512×512 electrode array woven into fabric for wearable haptic feedback
 
-<sub>Last updated: 2025-10-29</sub>
+`Embedded C` `Signal Processing` `Custom Hardware`  
+**CHI 2024** · [Paper](https://doi.org/10.1145/3613904.3642873)
+
+### EIT Hand Tracking *(in progress)*
+> Electrical Impedance Tomography for continuous hand pose estimation
+
+`PyTorch` `Embedded ML` `Low-power Sensing`
+
+### Variable Topology Truss Robot
+> Reconfigurable robot that changes its own structure
+
+`Python` `Mechanism Design` `Motion Planning`
+
+## Background
+
+- **Ph.D. CS** — Northwestern University *(current)*
+- **M.S.E. Robotics** — UPenn (GRASP Lab)
+- **B.E. Industrial Design** — Xi'an Jiaotong University
+
+---
+
+Open to collaborations on wearable sensing, haptics, or embedded ML projects.  
+Reach me at **xuanyou@u.northwestern.edu**
