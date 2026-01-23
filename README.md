@@ -8,7 +8,7 @@ class Zed:
         self.currently_building = "EIT-based hand tracking"
 ```
 
-[![Website](https://img.shields.io/badge/-xuanyouliu.com-000?style=flat&logo=google-chrome&logoColor=white)](https://xuanyouliu.com)
+[![Website](https://img.shields.io/badge/-xuanyouliu.com-000?style=flat&logo=safari&logoColor=white)](https://xuanyouliu.com)
 [![Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=FcQWVTYAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xuanyouliu/)
 
@@ -26,41 +26,22 @@ I build **hardware-software systems** at the intersection of sensing, haptics, a
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
-
-**ML & Vision**  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-sklearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-
-**Embedded & Hardware**  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RPi-A22846?style=flat&logo=raspberrypi&logoColor=white)
 ![Altium](https://img.shields.io/badge/-Altium-A5915F?style=flat&logo=altiumdesigner&logoColor=white)
 
 ## Featured Projects
 
-### Electrotactile Sensory Substitution
-> Back-of-hand display + wrist camera → tactile vision for blind users
-
-`C++` `Python` `PCB Design` `Real-time Systems`  
-**CHI 2025** · [Paper](https://doi.org/10.1145/3706598.3713419)
-
-### TacTex — High-Density Textile Haptics
-> 512×512 electrode array woven into fabric for wearable haptic feedback
-
-`Embedded C` `Signal Processing` `Custom Hardware`  
-**CHI 2024** · [Paper](https://doi.org/10.1145/3613904.3642873)
-
-### EIT Hand Tracking *(in progress)*
-> Electrical Impedance Tomography for continuous hand pose estimation
-
-`PyTorch` `Embedded ML` `Low-power Sensing`
-
-### Variable Topology Truss Robot
-> Reconfigurable robot that changes its own structure
-
-`Python` `Mechanism Design` `Motion Planning`
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[Electrotactile Sensory Substitution](https://doi.org/10.1145/3706598.3713419)** | Back-of-hand display + wrist camera for tactile vision | C++, Python, PCB Design |
+| **[TacTex](https://doi.org/10.1145/3613904.3642873)** | 512×512 textile electrode array for wearable haptics | Embedded C, Signal Processing |
+| **EIT Hand Tracking** *(WIP)* | Electrical Impedance Tomography for hand pose estimation | PyTorch, Embedded ML |
+| **Variable Topology Truss Robot** | Reconfigurable robot that changes its own structure | Python, Motion Planning |
 
 ## Background
 
