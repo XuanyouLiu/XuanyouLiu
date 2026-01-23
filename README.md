@@ -23,7 +23,6 @@ I build **hardware-software systems** at the intersection of sensing, haptics, a
 
 ## Tech Stack
 
-**Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2b%2b&logoColor=white) 
@@ -41,7 +40,7 @@ I build **hardware-software systems** at the intersection of sensing, haptics, a
 | **[Electrotactile Sensory Substitution](https://doi.org/10.1145/3706598.3713419)** | Back-of-hand display + wrist camera for tactile vision | C++, Python, PCB Design |
 | **[TacTex](https://doi.org/10.1145/3613904.3642873)** | 512×512 textile electrode array for wearable haptics | Embedded C, Signal Processing |
 | **EIT Hand Tracking** *(WIP)* | Electrical Impedance Tomography for hand pose estimation | PyTorch, Embedded ML |
-| **Variable Topology Truss Robot** | Reconfigurable robot that changes its own structure | Python, Motion Planning |
+| **[Variable Topology Truss Robot](https://www.modlabupenn.org/variable-topology-truss/)** | Reconfigurable robot that changes its own structure | Python, Motion Planning |
 
 ## Background
 
