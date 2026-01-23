@@ -8,8 +8,8 @@ class Zed:
         self.currently_building = "EIT-based hand tracking"
 ```
 
-[![Website](https://img.shields.io/badge/-xuanyouliu.com-000?style=flat&logo=safari&logoColor=white)](https://xuanyouliu.com)
-[![Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=FcQWVTYAAAAJ)
+[![Website](https://img.shields.io/badge/-xuanyouliu.com-000?style=flat&logo=safari&logoColor=white)](https://xuanyouliu.com)&nbsp;&nbsp;
+[![Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=FcQWVTYAAAAJ)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xuanyouliu/)
 
 ---
