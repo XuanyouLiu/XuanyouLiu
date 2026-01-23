@@ -18,8 +18,8 @@ class Zed:
 
 I build **hardware-software systems** at the intersection of sensing, haptics, and machine learning. My work spans from low-level firmware to ML pipelines, usually involving custom PCBs and wearable prototypes.
 
-**Current:** [SPICE Lab](https://spice-lab.org) @ Northwestern — building novel input/output devices  
-**Previously:** [HCI Lab](https://lab.plopes.org/) @ UChicago — electrotactile interfaces with Pedro Lopes
+**Current:** [SPICE Lab](https://spice-lab.org) @ Northwestern — building novel input/output devices with Prof. [Karan Ahuja](https://karan-ahuja.com)
+**Previously:** [HCI Lab](https://lab.plopes.org/) @ UChicago — electrotactile interfaces with Prof. [Pedro Lopes](https://plopes.org)
 
 ## Tech Stack
 
