@@ -6,9 +6,9 @@
 
 ---
 
-I am a **graduate student** in Computer Science at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/) ([MU Collective](https://mucollective.northwestern.edu/)), advised by [Jessica Hullman](https://users.eecs.northwestern.edu/~jhullman/). I study how intelligent systems and novel sensing technologies can augment human perception and support more effective decision-making.
+I am a **graduate student** in Computer Science at Northwestern University ([MU Collective](https://mucollective.northwestern.edu/)), advised by Jessica Hullman. I study how intelligent systems and novel sensing technologies can augment human perception and support more effective decision-making.
 
-*Previously:* I collaborated with [Pedro Lopes](https://lab.plopes.org/) at the University of Chicago ([HC-Integration Lab](https://lab.plopes.org/)) and with [Karan Ahuja](https://spice-lab.org/) at Northwestern ([SPICE Lab](https://spice-lab.org/)). I received my M.S.E. in Robotics from the University of Pennsylvania ([GRASP Lab](https://www.grasp.upenn.edu/)), advised by [Michelle Johnson](https://www.seas.upenn.edu/~johnsonm/), and my B.E. in Industrial Design from Xi'an Jiaotong University.
+*Previously:* I collaborated with Pedro Lopes at the University of Chicago ([HC-Integration Lab](https://lab.plopes.org/)) and with Karan Ahuja at Northwestern ([SPICE Lab](https://spice-lab.org/)). I received my M.S.E. in Robotics from the University of Pennsylvania ([GRASP Lab](https://www.grasp.upenn.edu/)), advised by Michelle Johnson, and my B.E. in Industrial Design from Xi'an Jiaotong University.
 
 ## News
 
@@ -29,7 +29,7 @@ I am a **graduate student** in Computer Science at [Northwestern University](htt
 | Project | Description | Venue |
 | :------ | :---------- | :---- |
 | **[MARIO](https://xuanyouliu.com)** | Motion-augmented multi-sensor inertial odometry for lightweight, camera-free human tracking | *CVPR Findings 2026* |
- **[Seeing with the Hands](https://doi.org/10.1145/3706598.3713419)** | Back-of-the-hand electrotactile display for sensory substitution during manual interaction | *CHI 2025* |
+| **[Seeing with the Hands](https://doi.org/10.1145/3706598.3713419)** | Back-of-the-hand electrotactile display for sensory substitution during manual interaction | *CHI 2025* |
 | **[TacTex](https://doi.org/10.1145/3613904.3642873)** | Textile interface with seamlessly integrated electrodes for high-resolution electrotactile stimulation | *CHI 2024* |
 
 ## Technical Skills
