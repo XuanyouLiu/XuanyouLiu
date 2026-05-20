@@ -8,7 +8,7 @@
 
 I am a graduate student in Computer Science at Northwestern University ([MU Collective](https://mucollective.northwestern.edu/)), advised by Jessica Hullman. I study how intelligent systems and novel sensing technologies can augment human perception and support more effective decision-making.
 
-*Previously:* UChicago (HC-Integration) · Northwestern (SPICE) · UPenn GRASP (M.S.E.) · Xi'an Jiaotong (B.E.)
+*Previously:* UChicago ([HC-Integration](https://lab.plopes.org/)) · Northwestern ([SPICE](https://spice-lab.org/)) · UPenn GRASP (M.S.E.) · Xi'an Jiaotong (B.E.)
 
 ## Research Interests
 
