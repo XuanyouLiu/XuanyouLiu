@@ -6,23 +6,15 @@
 
 ---
 
-I am a **graduate student** in Computer Science at Northwestern University ([MU Collective](https://mucollective.northwestern.edu/)), advised by Jessica Hullman. I study how intelligent systems and novel sensing technologies can augment human perception and support more effective decision-making.
+I am a graduate student in Computer Science at Northwestern University ([MU Collective](https://mucollective.northwestern.edu/)), advised by Jessica Hullman. I study how intelligent systems and novel sensing technologies can augment human perception and support more effective decision-making.
 
-*Previously:* I collaborated with Pedro Lopes at the University of Chicago ([HC-Integration Lab](https://lab.plopes.org/)) and with Karan Ahuja at Northwestern ([SPICE Lab](https://spice-lab.org/)). I received my M.S.E. in Robotics from the University of Pennsylvania ([GRASP Lab](https://www.grasp.upenn.edu/)), advised by Michelle Johnson, and my B.E. in Industrial Design from Xi'an Jiaotong University.
-
-## News
-
-- **Mar 2026** — *MARIO* accepted to Findings of CVPR 2026
-- **Sep 2025** — Started graduate studies at Northwestern
-- **May 2025** — Graduated from UPenn with M.S.E. in Robotics
-- **Jan 2025** — *Seeing with the Hands* accepted to CHI 2025
+*Previously:* UChicago (HC-Integration) · Northwestern (SPICE) · UPenn GRASP (M.S.E.) · Xi'an Jiaotong (B.E.)
 
 ## Research Interests
 
 - **Human-AI interaction** — uncertainty communication and AI-advised decision-making
 - **Wearable computing** — novel sensing and unobtrusive input
 - **Haptic interfaces** — electrotactile stimulation and sensory augmentation
-- **EIT-based sensing** — hand pose estimation and gesture recognition on wearables
 
 ## Selected Publications
 
