@@ -37,10 +37,21 @@ I build closed-loop systems that sense human state, decide when and how to act f
 
 ## Technical Skills
 
-**Programming:** Python · C/C++ · MATLAB · JavaScript
+**Programming:** Python, C/C++, MATLAB
 
-**ML & data:** PyTorch · scikit-learn · pandas · NumPy
+**ML / Vision:** PyTorch, TensorFlow, NumPy, pandas, OpenCV
 
-**Hardware:** Arduino · Altium Designer · PCB design · 3D printing
+**Embedded Systems:** ESP32, STM32, Arduino, FreeRTOS
 
-**Tools:** Git · LaTeX · Linux · web technologies
+**Electronics / CAD:** Altium Designer, KiCad, Fusion 360, SolidWorks
+
+**XR / Tracking:** Unity, Meta Quest, HTC Vive, OptiTrack
+
+**Development Tools:** Git, Jupyter, CMake, LaTeX
+
+## Selected Press
+
+- **[Hackster.io](https://www.hackster.io/news/smartwatches-can-now-read-your-hand-gestures-8dbc8fe5540b)** | Smartwatches Can Now Read Your Hand Gestures, 2026
+- **[CNX Software](https://www.cnx-software.com/2026/08/14/eitwatch-open-source-esp32-s3-smartwatch-implements-planar-eit-hand-gesture-recognition/)** | EITWatch open-source ESP32-S3 smartwatch implements planar EIT, 2026
+- **[Hackaday](https://hackaday.com/2025/03/03/sensory-substitution-device-tingles-back-of-your-hand/)** | Sensory Substitution Device Tingles Back of Your Hand, 2025
+- **[GIGAZINE](https://gigazine.net/gsc_news/en/20250304-seeing-with-the-hands/)** | A wearable device that allows you to see things with your hands is developed, 2025
