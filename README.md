@@ -22,7 +22,7 @@ I build closed-loop systems that sense human state, decide when and how to act f
 
 | Project | Description | Venue |
 | :------ | :---------- | :---- |
-| **[EITWatch](https://xuanyouliu.com/projects/eitwatch/)** | Smartwatch-integrated planar electrical impedance tomography for hand gesture recognition | *UIST 2026* |
+| **[EITWatch](https://arxiv.org/abs/2608.29415)** | Smartwatch-integrated planar electrical impedance tomography for hand gesture recognition | *UIST 2026* |
 | **[MARIO](https://xuanyouliu.com)** | Motion-augmented multi-sensor inertial odometry for lightweight, camera-free human tracking | *CVPR Findings 2026* |
 | **[Seeing with the Hands](https://doi.org/10.1145/3706598.3713419)** | Back-of-the-hand electrotactile display with a hand-perspective camera for sensory substitution during manual interaction | *CHI 2025* |
 | **[TacTex](https://doi.org/10.1145/3613904.3642873)** | Textile interface with seamlessly integrated electrodes for high-resolution electrotactile stimulation and touch sensing | *CHI 2024* |
