@@ -10,6 +10,8 @@ I am a graduate student in Computer Science at Northwestern University ([MU Coll
 
 I build closed-loop systems that sense human state, decide when and how to act from human-system complementarity, and intervene through haptic feedback. Longer term, I want mixed-initiative on-body interfaces that support continuous, embodied coordination rather than screen-centric interaction.
 
+My papers have appeared at **ACM CHI, UIST, CVPR, and NeurIPS**. I have given invited talks at MIT, UChicago, and UIUC, and invited technical demos at Qualcomm and Google.
+
 *Previously:* UChicago ([HC-Integration](https://lab.plopes.org/)) · Northwestern ([SPICE](https://spice-lab.org/)) · UPenn [GRASP (M.S.E.)](https://www.cis.upenn.edu/mse-in-robotics/) · Xi'an Jiaotong (B.E.)
 
 ## Research Interests
