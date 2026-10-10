@@ -10,7 +10,7 @@ I am a Ph.D. student in Computer Science at Northwestern University ([Epistemic 
 
 My research explores embodied AI through wearable interactive systems that provide context-aware, complementary assistance. I build multimodal wearables, including electrical impedance tomography and IMUs, to infer user and environmental states. I develop models that decide when and how to assist from those states, and I design on-body haptics that turn model decisions into physical interventions.
 
-My papers have appeared at **ACM CHI, UIST, CVPR, and NeurIPS**. [Learning Checklists to Reduce Lottery Effects in Scientific Peer Review](https://xuanyouliu.com/projects/review-checklists/) is under review at ICLR 2027. I have given invited talks at UIUC, MIT, and UChicago.
+My papers have appeared at **ACM CHI, UIST, CVPR, and NeurIPS**. [Learning Checklists to Reduce Lottery Effects in Scientific Peer Review](https://xuanyouliu.com/projects/review-checklists/) is under review at ICLR 2027. I have given invited talks at UIUC, MIT, and UChicago, and invited demos at Qualcomm and Google.
 
 *Previously:* UChicago ([HC-Integration](https://lab.plopes.org/)) · Northwestern ([SPICE](https://spice-lab.org/)) · UPenn [ModLab (M.S.E. Robotics)](https://www.modlabupenn.org/) · [ISCAS](http://english.is.cas.cn) · Xi'an Jiaotong (B.E.)
 
