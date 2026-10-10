@@ -10,7 +10,7 @@ I am a Ph.D. student in Computer Science at Northwestern University ([Epistemic 
 
 My research explores embodied AI through wearable interactive systems that provide context-aware, complementary assistance. I build multimodal wearables, including electrical impedance tomography and IMUs, to infer user and environmental states. I develop models that decide when and how to assist from those states, and I design on-body haptics that turn model decisions into physical interventions.
 
-My papers have appeared at **ACM CHI, UIST, CVPR, and NeurIPS**. [Learning Checklists to Reduce Lottery Effects in Scientific Peer Review](https://xuanyouliu.com/projects/review-checklists/) is under review at ICLR 2027. I have given invited talks at UIUC, MIT, and UChicago, and invited demos at Qualcomm and Google.
+My papers have appeared at **ACM CHI, UIST, CVPR, and NeurIPS**. I have given invited talks at UIUC, MIT, and UChicago, and invited demos at Qualcomm and Google.
 
 *Previously:* UChicago ([HC-Integration](https://lab.plopes.org/)) · Northwestern ([SPICE](https://spice-lab.org/)) · UPenn [ModLab (M.S.E. Robotics)](https://www.modlabupenn.org/) · [ISCAS](http://english.is.cas.cn) · Xi'an Jiaotong (B.E.)
 
@@ -30,13 +30,6 @@ My papers have appeared at **ACM CHI, UIST, CVPR, and NeurIPS**. [Learning Check
 | **[MARIO](https://doi.org/10.1109/CVPRF71909.2026.00336)** | Motion-augmented multi-sensor inertial odometry that cuts inertial-odometry drift by up to 42% for lightweight, camera-free human tracking | *CVPR Findings 2026* |
 | **[Seeing with the Hands](https://doi.org/10.1145/3706598.3713419)** | Back-of-the-hand electrotactile display with a hand-perspective camera for sensory substitution during manual interaction (equal contribution, open hardware) | *CHI 2025* |
 | **[TacTex](https://doi.org/10.1145/3613904.3642873)** | Textile interface with seamlessly integrated electrodes for high-resolution electrotactile stimulation and touch sensing | *CHI 2024* |
-
-## Teaching and Service
-
-- **GradMAPS Mentor**, The Graduate School, Northwestern University, 2026 to present
-- **Reviewer**, CHI 2027 and IMWUT
-- **Teaching Assistant**, [ESE5190 Smart Devices](https://ese5190.seas.upenn.edu), University of Pennsylvania, 2024
-- **Code Instructor**, Python and Arduino for middle-school students, Fife-Penn CS Academy, 2024
 
 ## Fun Projects
 
@@ -60,11 +53,3 @@ My papers have appeared at **ACM CHI, UIST, CVPR, and NeurIPS**. [Learning Check
 **Development Tools:** Git, Jupyter, CMake, LaTeX
 
 **Languages:** Mandarin (native), English (proficient), Cantonese (fluent)
-
-## Selected Press
-
-- **[Hackster.io](https://www.hackster.io/news/smartwatches-can-now-read-your-hand-gestures-8dbc8fe5540b)** | Smartwatches Can Now Read Your Hand Gestures, 2026
-- **[CNX Software](https://www.cnx-software.com/2026/08/14/eitwatch-open-source-esp32-s3-smartwatch-implements-planar-eit-hand-gesture-recognition/)** | EITWatch open-source ESP32-S3 smartwatch implements planar EIT, 2026
-- **[Electronics For You](https://www.electronicsforu.com/news/eitwatch-gesture-control-from-a-smartwatch-case-back)** | EITWatch: Gesture Control From a Smartwatch Case Back, 2026
-- **[Hackaday](https://hackaday.com/2025/03/03/sensory-substitution-device-tingles-back-of-your-hand/)** | Sensory Substitution Device Tingles Back of Your Hand, 2025
-- **[GIGAZINE](https://gigazine.net/gsc_news/en/20250304-seeing-with-the-hands/)** | A wearable device that allows you to see things with your hands is developed, 2025
