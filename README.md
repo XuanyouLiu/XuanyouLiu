@@ -33,10 +33,6 @@ My papers have appeared at **ACM CHI, UIST, CVPR, and NeurIPS**. I have given in
 
 | Project | Description |
 | :------ | :---------- |
-| **E-Candle** | Handmade LED candle glowing under a glass dome |
-| **LED Earring** | Glowing LED earring |
-| **Ink Watch** | Custom e-ink watch |
-| **RoboPet** | 3D-printed desk robot with animated eyes on a screen |
 | **[PCB Business Card](https://github.com/XuanyouLiu/pcb-business-card)** | Passive NFC PCB card (NXP NT3H2111) with an on-board coil and energy-harvesting LED |
 | **[Cyberpet](https://github.com/XuanyouLiu/Cyberpet)** | Arduino and ESP32 companion robot with face tracking, expression, and environmental sensing |
 
